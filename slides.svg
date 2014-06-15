@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2104.7244"
+   height="1488.189"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="slides.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.44"
+     inkscape:cx="1052.3622"
+     inkscape:cy="744.09448"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     showgrid="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Sprint Retrospective Input"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1192.8634"
+       y="34.024284"
+       id="text3949"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3951"
+         x="1192.8634"
+         y="34.024284">How things went with regard to:</tspan><tspan
+         sodipodi:role="line"
+         x="1192.8634"
+         y="44.024284"
+         id="tspan3953">* People</tspan><tspan
+         sodipodi:role="line"
+         x="1192.8634"
+         y="54.024284"
+         id="tspan3955">* Relationships</tspan><tspan
+         sodipodi:role="line"
+         x="1192.8634"
+         y="64.024284"
+         id="tspan3957">* Process</tspan><tspan
+         sodipodi:role="line"
+         x="1192.8634"
+         y="74.024284"
+         id="tspan3959">* Tools</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="List of Roles"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1901.7352"
+       y="30.701796"
+       id="text3971"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3973"
+         x="1901.7352"
+         y="30.701796">Product Owner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1903.8851"
+       y="57.574783"
+       id="text3975"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3977"
+         x="1903.8851"
+         y="57.574783">Development Team</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1909.2598"
+       y="83.372818"
+       id="text3979"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3981"
+         x="1909.2598"
+         y="83.372818">ScrumMaster</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1912.4845"
+       y="114.54546"
+       id="text3983"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3985"
+         x="1912.4845"
+         y="114.54546">Business Owners</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Sprint Retrospective Output"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1497.2831"
+       y="36.849274"
+       id="text3962"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3964"
+         x="1497.2831"
+         y="36.849274">Improvements to be implemented in the next Sprint</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1497.2831"
+       y="56.197807"
+       id="text3966"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3968"
+         x="1497.2831"
+         y="56.197807">Ordered list of major items which went well</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Sprint Review Output"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1498.1774"
+       y="-306.88925"
+       id="text3944"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3946"
+         x="1498.1774"
+         y="-306.88925">Revised/Reprioritized Product Backlog</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Sprint Review Input"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1092.1602"
+       y="-298.78293"
+       id="text3935"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3937"
+         x="1092.1602"
+         y="-298.78293">Current value for items in the Product Backlog</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1093.2351"
+       y="-277.28458"
+       id="text3939"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3941"
+         x="1093.2351"
+         y="-277.28458">High value items not in the Product Backlog</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Development Work Output"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1193.9724"
+       y="-90.273895"
+       id="text3926"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3928"
+         x="1193.9724"
+         y="-90.273895">Useable product</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1192.6517"
+       y="-106.21411"
+       id="text3930"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3932"
+         x="1192.6517"
+         y="-106.21411">Impediments</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Daily Scrum Output"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="762.55408"
+       y="-219.93782"
+       id="text3909"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3911"
+         x="762.55408"
+         y="-219.93782">A plan for the next 24 hours</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="829.53809"
+       y="-124.17678"
+       id="text3917"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3919"
+         x="829.53809"
+         y="-124.17678">Task definitions for Sprint Backlog</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="826.31335"
+       y="-104.82825"
+       id="text3921"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3923"
+         x="826.31335"
+         y="-104.82825">Plan for how to remove impediments</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Daily Scrum Input"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="947.0788"
+       y="-294.94376"
+       id="text3896"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4015">Have done</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="947.0788"
+       y="-272.37045"
+       id="text3900"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4017">Will do</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="947.0788"
+       y="-244.42258"
+       id="text3904"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3906"
+         x="947.0788"
+         y="-244.42258">Impediments</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Sprint Planning Output"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="548.52234"
+       y="-183.79329"
+       id="text3881"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3883"
+         x="548.52234"
+         y="-183.79329">Sprint Goal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="550.67218"
+       y="-157.99525"
+       id="text3885"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3887"
+         x="550.67218"
+         y="-157.99525">Sprint Backlog</tspan><tspan
+         sodipodi:role="line"
+         x="550.67218"
+         y="-147.99525"
+         id="tspan3889">(items of work</tspan><tspan
+         sodipodi:role="line"
+         x="550.67218"
+         y="-137.99525"
+         id="tspan3891">and plan of how</tspan><tspan
+         sodipodi:role="line"
+         x="550.67218"
+         y="-127.99526"
+         id="tspan3893">to deliver them)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Sprint Planning Input"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="284.70389"
+       y="-191.93217"
+       id="text3860"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="284.70389"
+         y="-191.93217"
+         id="tspan3864">Product Backlog</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="250.30649"
+       y="-170.43379"
+       id="text3868"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3870"
+         x="250.30649"
+         y="-170.43379">Previous Sprint Work</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="250.30649"
+       y="-144.63577"
+       id="text3872"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3874"
+         x="250.30649"
+         y="-144.63577">Projected Team Capacity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="250.30649"
+       y="-116.6879"
+       id="text3876"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3878"
+         x="250.30649"
+         y="-116.6879">Past Performance of Team</tspan></text>
+  </g>
+  <g
+     inkscape:label="meeting boxes"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,435.8268)">
+    <rect
+       y="-36.67519"
+       x="714.32043"
+       height="70.866142"
+       width="106.29921"
+       id="rect3777"
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3779"
+       width="106.29921"
+       height="70.866142"
+       x="1037.3566"
+       y="175.549" />
+    <rect
+       y="-25.024677"
+       x="1343.3143"
+       height="70.866142"
+       width="106.29921"
+       id="rect3781"
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3783"
+       width="106.29921"
+       height="70.866142"
+       x="1352.7582"
+       y="306.13153" />
+    <rect
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+       id="rect3004"
+       width="106.29921"
+       height="70.866142"
+       x="400.88263"
+       y="97.724632" />
+    <rect
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3997"
+       width="106.29921"
+       height="70.866142"
+       x="1725.1326"
+       y="-95.479225"
+       rx="7.0866141"
+       ry="7.0866141" />
+    <rect
+       ry="7.0866141"
+       rx="7.0866141"
+       y="138.61168"
+       x="711.49622"
+       height="70.866142"
+       width="106.29921"
+       id="rect4007"
+       style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="meeting names"
+     style="display:inline"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="453.87848"
+       y="-158.02046"
+       id="text3786"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3788"
+         x="453.87848"
+         y="-158.02046">Sprint</tspan><tspan
+         sodipodi:role="line"
+         x="453.87848"
+         y="-142.02046"
+         id="tspan3790">Planning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="767.66376"
+       y="-290.9563"
+       id="text3792"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3794"
+         x="767.66376"
+         y="-290.9563">Daily</tspan><tspan
+         sodipodi:role="line"
+         x="767.66376"
+         y="-274.9563"
+         id="tspan3796">Scrum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1090.0206"
+       y="-78.732117"
+       id="text3798"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3822"
+         x="1090.0206"
+         y="-78.732117">Development</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3824"
+         x="1090.0206"
+         y="-62.732117">Work</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1395.9092"
+       y="-279.20978"
+       id="text3810"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3812"
+         x="1395.9092"
+         y="-279.20978">Sprint</tspan><tspan
+         sodipodi:role="line"
+         x="1395.9092"
+         y="-263.20978"
+         id="tspan3814">Review</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1405.525"
+       y="50.386433"
+       id="text3816"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3818"
+         x="1405.525"
+         y="50.386433">Sprint</tspan><tspan
+         sodipodi:role="line"
+         x="1405.525"
+         y="66.386429"
+         id="tspan3820">Retrospective</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1777.7965"
+       y="-357.76035"
+       id="text3999"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4001"
+         x="1777.7965"
+         y="-357.76035">Product</tspan><tspan
+         sodipodi:role="line"
+         x="1777.7965"
+         y="-341.76035"
+         id="tspan4003">Backlog</tspan><tspan
+         sodipodi:role="line"
+         x="1777.7965"
+         y="-325.76035"
+         id="tspan4005">Refinement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="764.28693"
+       y="-115.66943"
+       id="text4009"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4011"
+         x="764.28693"
+         y="-115.66943">Detailed</tspan><tspan
+         sodipodi:role="line"
+         x="764.28693"
+         y="-99.669434"
+         id="tspan4013">Discussions</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Sprint Input"
+     transform="translate(0,723.18898)">
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="83.322479"
+       y="-171.99733"
+       id="text3839"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3841"
+         x="83.322479"
+         y="-171.99733">Definition</tspan><tspan
+         sodipodi:role="line"
+         x="83.322479"
+         y="-155.99733"
+         id="tspan3843">of what</tspan><tspan
+         sodipodi:role="line"
+         x="83.322479"
+         y="-139.99733"
+         id="tspan3845">should be</tspan><tspan
+         sodipodi:role="line"
+         x="83.322479"
+         y="-123.99734"
+         id="tspan3847">built</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="1922.7109"
+       y="-185.87949"
+       id="text3849"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3851"
+         x="1922.7109"
+         y="-185.87949">Useable</tspan><tspan
+         sodipodi:role="line"
+         x="1922.7109"
+         y="-169.87949"
+         id="tspan3853">(and potentially</tspan><tspan
+         sodipodi:role="line"
+         x="1922.7109"
+         y="-153.87949"
+         id="tspan3855">releasable)</tspan><tspan
+         sodipodi:role="line"
+         x="1922.7109"
+         y="-137.87949"
+         id="tspan3857">product increment</tspan></text>
+  </g>
+</svg>
