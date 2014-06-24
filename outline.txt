@@ -1,0 +1,328 @@
+Experience: Children doing Sprints
+
+Scrum: 7 Sprint: container for all other events; time-box of one month
+or less during which a "Done", useable, and potentially
+releasable product increment is created; no changes that would
+endanger the Sprint Goal; quality goals do not decrease; scope
+may be clarified and re-negotiated; may only be canceled by the
+Product Owner
+
+Drive: 49 By neglecting the ingredients of genuine motivation--autonomy,
+mastery, and purpose--they limit what each of us can achieve.
+
+Drive: 57 The very presence of goals may lead employees to focus
+myopically on short-term gains and to lose sight of the potential
+devastating long-term effects on the organization. -Goals Gone
+Wild 
+
+Drive: 50 Goals that people set for themselves and that are
+devoted to attaining mastery are usually healthy. But goals
+imposed by others--sales targets, quarterly returns, standardized
+test scores, and so on--can sometimes have dangerous side
+effects.
+
+Drive: 87 They were focused on the work itself rather than on
+whether someone would call them a slacker for leaving at three
+P.M. to watch a daughter's soccer game.
+
+Drive: 106 Ample research has shown that people working in
+self-organized teams are more satisfied than those working in
+inherited teams.
+
+Drive: 145 The science shows that the secret to high performance
+isn't our biological drive or our reward-and-punishment drive,
+but our third drive--our deep-seated desire to direct our own
+lives, to extend and expand our abilities, and to live a life of
+purpose.
+
+Drive: 200 To what end, and to whose benefit, are our employees
+being asked to give of themselves? Have we committed ourselves to
+a purpose that is truly deserving of their initiative,
+imagination, and passion?
+
+Smartest: 215 When searching for a school, the leader matters more than any other factor.
+
+Scrum: 5 Product Owner: maximize the value of the product and the
+work of the Development Team; clearly express backlog items;
+ordering items; ensure Product Backlog is visible and clear to
+all; ensure Dev Team understands items to the level needed; 1
+person
+
+Drive: 86 Management isn't about walking around and seeing if
+people are in their offices. It's about creating conditions for
+people to do their best work.
+
+Drive: 110 Control leads to compliance; autonomy leads to
+engagement.
+
+Drive: 53 After the introduction of the fine we observed a steady
+increase in the number of parents coming late... The punishment
+didn't promote good behavior; it crowded it out.
+(Product Owner should not control the Sprint)
+
+Drive: 137 The aims of these Motivation 3.0 companies are not to
+chase profit while trying to stay ethical and law-abiding. Their
+goal is to pursue purpose--and to use profit as the catalyst
+rather than the objective.
+(sprint goal)
+
+Scrum: 10 Sprint Goal: any coherence that causes the Development
+Team to work together rather than on separate initiatives
+
+Smartest: 210 What are you doing right now? Why?
+
+Quiet: P159 Positive emotion is activated "in response to the
+pursuit or capture of some resource that is valued." --Daniel
+Nettle
+
+Quiet: P166 If you focus on achieving your goals...you don't want
+anything to get in your way.
+
+Drive: 72: [Self-determination theory] argues that we have three
+innate psychological needs--competence, autonomy, and
+relatedness. When those needs are satisified, we're motivated,
+productive, and happy. When they're thwarted, our motivation,
+productivity, and happiness plummet.
+
+Drive: 93 One of these essential features is autonomy--in
+particular, autonomy over four aspects of work: what people do,
+when they do it, how they do it, and whom they do it with.
+
+Scrum: 5 Development Team: define an increment, and deliver a
+potentially releasable increment of "Done" product at the end of
+each Sprint; self-organizing; cross-functional; no titles; no
+subteams; accountability belongs to Dev Team as a whole; 3-9
+members
+
+Smartest: 209 [Students] should not be frustrated or despairing,
+instead, they should be getting help when they need it,
+often from each other.
+
+Smartest: 211 If you don't understand something, what do you do?
+-Dwan Jordon
+
+Quiet: P88 Studies have shown that performance gets worse as
+group size increases: groups of nine generate fewer and poorer
+ideas compared to groups of six, which do worse than groups of
+four (scrum team size capped at 9)
+
+Quiet: P111 The orchid hypothesis: Many children are like
+dandelions, able to thrive in just about any environment. But
+others...are more like orchids: they wilt easily, but under the
+right conditions can grow strong and magnificent.
+
+Drive: 197 Demanding of knowledge workers that they define their
+own task and its results is necessary because knowledge workers
+must be autonomous.
+(Sprint Planning)
+
+Scrum: 8 Sprint Planning: 8 hours (per month Sprint); Development
+Team selects work; Sprint Goal crafted by entire Scrum Team
+(provides guidance on why the increment is being built);
+Development Team decides how it will build the functionality into
+a "Done" product increment
+
+Quiet: P223 When your conscientiousness impels you to take on more than
+you can handle, you begin to lose interest, even in tasks that
+normally engage you.
+
+Quiet: P168 On many kinds of tasks, particularly those performed under time or social
+pressure or involving multitasking, extroverts do better. But
+introverts seem to think more carefully than extroverts.
+Introverts think before they act, digest information thoroughly,
+stay on task longer, give up less easily, and work more
+accurately.
+
+Smartest: 209 Engaged kids didn't take much notice [in my
+arrival]; they had more important things to do. Bored kids looked
+back and smiled, offered a shy wave, and handed me a tissue if I
+sneezed... they were desparate for a distraction.
+
+Smartest: 211 In this class, do you learn a lot every day? -Tripod Survey
+
+Quiet: P172 Flow is an optimal state in which you feel totally
+engaged in an activity. It a state of flow, you're neither bored
+nor anxious, and you don't question your own adequacy. Hours pass
+by without your noticing.
+
+Quiet: P115 Enjoyment appears at the boundary between boredom and
+anxiety, when the challenges are just balanced with the person's
+capacity to act. -Mihaly Csikszentmihalyi
+
+Drive: 51 When the reward is the activity itself--deepening
+learning, delighting customers, doing one's best--there are no
+shortcuts.
+(scrum says quality cannot decline)
+
+Scrum: 10 Daily Scrum: 15-minutes; inspect work since last Scrum
+and forecast the work that could be done before the next Scrum;
+impediments preventing meeting the Sprint Goal; same time and
+place daily; detailed discussions often happen immediately after
+Scrum; only Development Team members participate in Scrum
+
+Experience: Clean up one thing at a time when all toys are out
+
+Smartest: 209 There should be a sense of urgency that you can feel.
+
+Quiet: P85 Scientists now know that the brain is incapable of
+paying attention to two things at the same time. What looks like
+multitasking is really switching back and forth between multiple
+tasks, which reduces productivity and increases mistakes by up to
+50 percent.
+
+Smartest: 211 Does this class stay busy and not waste time?
+-Tripod Survey
+
+Scrum: 7 Development Work: (10) Sprint Goal kept in mind;
+functionality and technology implemented
+
+Drive: 125 If people are conscious of what puts them in flow,
+they'll have a clearer idea of what they should devote the time
+and dedication to master.
+(picking Sprint tasks)
+
+Drive: 117 Creating flow-friendly environments that help people
+move toward mastery can increase productivity and satisfaction at
+work.
+
+Drive: 182 Children are naturally inclined to experience periods
+of intense focus, concentration, and flow that adults should do
+their best not to interrupt.
+
+Quiet: P172 "Psychological theories usually assume that we are motivated either
+by the need to eliminate an unpleasant condition like hunger or
+fear, or by the expectation of some future reward such as money,
+status, or prestige." But in flow, "a person could
+work around the clock for days on end, for no better reason than to keep on
+working." --Mihaly Csikszentmihaly
+
+Drive: 30 Intrinsic motivation is conducive to creativity;
+controlling extrinsic motivation is detrimental to creativity.
+-Teresa M. Amabile
+
+Drive: 46 For artists, scientists, inventors, schoolchildren, and
+the rest of us, intrinsic motivation--the drive to do something
+because it is interesting, challenging, and absorbing--is
+essential for high levels of creativity.
+
+Drive: 185 An "infinite game" has no winner and no end; the goal
+is to keep playing. Nonwinnable games are much more rewarding
+than the win-lose ones we're accustomed to playing at our work
+and in our relationships.
+
+Smartest: 208 Watch for signs that all the kids are paying
+attention, interested in what they are doing, and working hard.
+Don't check for signs of order.
+
+Experience: Suzuki music training: listen as well as read,
+memorize, music begins after notes and rhythms are correct,
+progress after high quality
+
+Scrum: 3 Scrum is lightweight, simple to understand, difficult to
+master
+
+Quiet: P209 When someone asks us "How are things?" we may give a
+throwaway answer, but our true response is a function of how well
+our core personal projects are going.
+
+Smartest: 211 Do students in this class usually behave the way
+your teacher wants them to? -Tripod Survey
+
+Scrum: 11 Sprint Retrospective: 3 hours (per month Sprint); Scrum
+Team inspects itself and creates a plan for improvements in the
+next Sprint; after Sprint Review and before Sprint Planning; more
+effective and enjoyable for the next Sprint; plan ways to
+increase product quality; inspect how last Sprint went with
+regards to people, relationships, process, and tools; identify
+and order major items that went well
+
+Drive: 68 The more the praise is about effort and strategy rather
+than about achieving a particular outcome--the more effective it
+can be.
+(retrospective), see also 178
+
+Smartest: 215 When looking for a world-class education, remember
+that people always matter more than props.
+
+Smartest: 216 How do you measure your success? Strong leaders can
+clearly explain their vision. If you hear a long, vague answer,
+full of many disparate parts, you may have found yourself in a
+school without a mission.
+
+Scrum: 4 inspection should not be so frequent that inspection
+gets in the way of the work
+
+Scrum: 4 adjustment must be made as soon as possible to minimize
+further deviation
+
+Scrum: 11 Sprint Review: 4 hours (per month Sprint); inspect the
+increment and adapt the Product Backlog; collaborate on next
+things that could be done to optimize value; presentation of the
+increment is intended to elicit feedback and foster
+collaboration; discuss problems overcome
+
+Scrum: 12 Product Backlog (artifact): ordered list of everything
+that might be needed in the product; never complete; exists as
+long as the product does; attributes of description, order,
+estimate, and value, possible grouping if multiple teams;
+ordering by Product Owner; estimating by Development Team; higher
+items are clearer and more detailed than lower items; at any
+point, remaining work to reach a goal can be summed
+
+Scrum: 13 Product Backlog refinement: 10% of Development Team
+capacity, or less; Product Owner and Development team collaborate
+on the details of Product Backlog items, increasing clarity and
+detail, refining so any one item can be reasonably Done within a
+Sprint; Development Team creates more precise estimates
+
+Scrum: 15 Done: everyone must understand what "Done" means;
+varies significantly per Scrum Team; used to assess when work is
+complete; as Scrum Teams mature, their definitions of "Done" will
+expand to include more stringent criteria for higher quality
+
+Scrum: 4 Those performing the work and those accepting the work product
+must share a common definition of "Done".
+
+Scrum: 14 Sprint Backlog (artifact): a forecast by the Development Team
+about what functionality will be in the next increment, and the
+work needed to deliver that functionality; consists of items
+taken from the Product Backlog, plus a plan for delivering the
+product and accomplishing the Sprint Goal; modified by the
+Development Team during the Sprint; only the Development Team can
+change the Sprint Backlog; at any point in time, the total work
+remaining in the Sprint Backlog can be summed
+
+Scrum: 16 Scrum exists only in its entirety
+
+Scrum: 7 prescribed events are used in Scrum to create regularity
+and to minimize the need for meetings not defined in Scrum
+
+Drive: 199 The results-only work environment (ROWE):
+* People at all levels stop doing any activity that is a waste of
+  their time, the customer's time, or their company's time.
+* Employees have the freedom to work any way they want.
+* Every meeting is optional.
+* There are no work schedules.
+
+Smartest: 214 In most of the highest-performing systems,
+technology is remarkably absent from classrooms. -Andreas
+Schleicher
+
+Scrum: 15 Scrum Master: work with the Scrum Team and the
+organization to increase the transparency of the artifacts;
+learning, convincing; change; (6) facilitating Scrum events;
+removing impediments; coaching
+
+Drive: 194 People with a high level of personal mastery are able
+to consistently realize the results that matter most deeply to
+them.
+(high value backlog and average Sprint velocity)
+
+Scrum: 3 knowledge comes from experience and making decisions
+based on what is known. Pillars: transparency, inspection,
+adaptation
+
+Quiet: P265 Spend your free time the way you like, not the way
+you think you're supposed to.
+
+
